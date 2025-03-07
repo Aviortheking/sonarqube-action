@@ -40,3 +40,6 @@ inputs:
     description: "Encoding of the source code."
     required: false
     default: "UTF-8"
+  args:
+    description: "Additionnal arguments passed to the scanner"
+    required: false
